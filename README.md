@@ -1,1 +1,1 @@
-# cruise-missile
+# Earth Magnetic Model 
