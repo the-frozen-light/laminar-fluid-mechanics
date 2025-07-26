@@ -18,7 +18,6 @@ To simulate steady-state laminar flow through a split circular pipe to:
 |------------------|------------------------|
 | Geometry          | Horizontally split circular pipe (3D) |
 | Fluid             | Water (ρ = 1000 kg/m³, μ = 0.001 Pa·s) |
-
 | Pipe Length       | 15.0 mm                  |
 | Pipe Diameter     | 1 mm                 |
 | Flow Regime       | Laminar (Re < 1000)    |
