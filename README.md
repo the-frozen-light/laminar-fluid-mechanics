@@ -65,7 +65,7 @@ To simulate steady-state laminar flow through a split circular pipe to:
 This project demonstrates:
 - Laminar fluid flow setup in COMSOL
 - Interpreting fluid mechanics results
-- Post-processing and visual reporting
+- visual reporting
 
 ## 📄 License
 
