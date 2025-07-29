@@ -36,7 +36,7 @@ To simulate steady-state laminar flow through a split circular pipe to:
 - Parabolic profile confirming laminar nature.
 - Max velocity at centerline
 
-![Velocity Profile](velocity_profile.png)
+![Velocity Profile](reenshot 2025-07-15 125701.png)
 
 ### 🔹 Pressure Distribution
 - Linear drop along length of the pipe.
